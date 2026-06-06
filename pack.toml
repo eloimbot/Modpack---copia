@@ -1,0 +1,13 @@
+name = "Enriccraft"
+author = "Eloimbot"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "82a1b7063c43b3b073ee3d1921f38f61ce717d01de7e6fd1e87d709447bdd356"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"
